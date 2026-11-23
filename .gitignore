@@ -1,0 +1,13 @@
+# Maxfiy malumotlar uchun
+.env
+
+# Python virtual muhiti
+venv/
+
+# Python vaqtinchalik fayllari
+__pycache__/
+*.pyc
+
+# SQL malumotlar bazasi
+database/*.db
+

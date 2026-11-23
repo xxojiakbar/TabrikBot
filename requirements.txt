@@ -1,0 +1,14 @@
+# Bot obyektini yaratsih boglanish uchun
+python-telegram-bot
+
+# Excel bilan ishlash uchun
+openpyxl
+
+# Word bilan ishlash uchun
+python-docx
+
+# env ichidan malumotlarni yuklab berish uchun
+python-dotenv
+
+# Vaqt bo‘yicha vazifalarni bajarish
+APScheduler
