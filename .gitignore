@@ -11,3 +11,12 @@ __pycache__/
 # SQL malumotlar bazasi
 database/*.db
 
+# VS Code fayllari
+.vscode
+
+# data papkasi ichdagi fayllarni yashirish
+data/*
+!data/ .gitkeep
+
+
+
