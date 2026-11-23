@@ -16,7 +16,7 @@ database/*.db
 
 # data papkasi ichdagi fayllarni yashirish
 data/*
-!data/ .gitkeep
+!data/.gitkeep
 
 
 
